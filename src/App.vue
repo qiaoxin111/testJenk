@@ -1,7 +1,15 @@
 <template>
   <img alt="Vue logo" src="./assets/logo.png">
-  haskhdfalksjfka
-
+    haskhdfalksjfka
+    <div>测试CI</div>
+    <div>测试CI</div>
+    <div>测试CI</div>
+    <div>测试CI</div>
+    <div>测试CI</div>
+    <div>测试CI</div>
+    V
+    V
+    V<div>测试CI</div>
   <HelloWorld msg="Welcome to Your Vue.js App"/>
 </template>
 
