@@ -1,12 +1,7 @@
 <template>
   <img alt="Vue logo" src="./assets/logo.png">
   haskhdfalksjfka
-  <div>这是我的测试项目，测试jenkins</div>
-  <div>这是我的测试项目，测试jenkins</div>
-  <div>这是我的测试项目，测试jenkins</div>
-  <div>这是我的测试项目，测试jenkins</div>
-  <div>这是我的测试项目，测试jenkins</div>
-  <div>这是我的测试项目，测试jenkins</div>
+
   <HelloWorld msg="Welcome to Your Vue.js App"/>
 </template>
 
