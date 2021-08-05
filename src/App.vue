@@ -3,6 +3,8 @@
     
     <div>测试CI</div>
      <div>测试自动化部署啦啦啦啦啦</div>
+     <div>测试自动化部署啦啦啦啦啦</div>
+     <div>测试自动化部署啦啦啦啦啦</div>
   
   <HelloWorld msg="Welcome to Your Vue.js App"/>
 </template>
